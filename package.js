@@ -1,6 +1,6 @@
 Package.describe({
     name: 'kevinchen:echarts',
-    version: '0.3.1',
+    version: '0.3.0',
     summary: 'baidu echarts',
     git: 'https://github.com/chendong0120/heytz-echarts.git',
     documentation: 'README.md'
